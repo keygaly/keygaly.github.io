@@ -1,0 +1,129 @@
+body{
+	background-color: #343F4B;
+}
+.container1{
+	background-color: #B3A48F;
+}
+
+h1{
+	color: #47525E;
+	font-size: 48px;
+}
+.contaner2{
+}
+
+.form1{
+	background-color: #ffff;
+	width: 730px;
+	height: 229.81px;
+	margin-left: 5%;
+	margin-top: 20%;
+}
+
+.btn1{
+	background-color: #47525E;;
+	color: #ffff;
+	height: 45px;
+	width: 215px
+}
+
+.join{
+	text-align: center;
+}
+
+.call{
+	color: #8190A5;
+	text-align: center;
+
+}
+
+img{
+	margin-left: 41%;
+	width: 636px;
+	height: 503px;
+}
+input{
+	display: inline-block;
+}
+
+.container3-fluid{
+	background-color: #B3A48F; 
+	/*<!--*/
+	width: 1371px;
+	height: 400px;
+	margin-left: 2%;
+}
+
+#exampleInputEmail1{
+	width: 215px;
+	height: 45px;
+	margin-left: 5.5%;
+}
+#exampleInputPassword1{
+	width: 215px;
+	height: 45px;
+}
+
+.join{
+	color: #47525E;
+}
+
+.row{
+	margin-bottom: 35px;
+}
+
+h2{
+	font-size: 38px;
+	font-style: ;
+}
+
+.container4{
+	margin-top: 50px;
+}
+
+.container5{
+	margin-top: 50px;
+}
+
+.container6{
+	margin-top: 50px;
+}
+
+h3{
+	color: #47525E;
+	text-align: center;
+}
+p{
+	color: #8190A5;
+}
+
+
+h6{
+	color: #47525E;
+}
+#content1{
+	margin-left: 7%;
+}
+
+#content2{
+	margin-left: 5%;
+}
+
+#content3{
+	margin-left: 5%;
+}
+
+h4{
+	text-align: center;
+}
+
+#ab1{
+	width: 300px;
+	height: 200px;
+	margin-left: 0%;
+}
+
+.container7{
+	margin-left: 15%;
+}
+
