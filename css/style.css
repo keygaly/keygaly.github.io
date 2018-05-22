@@ -1,14 +1,18 @@
 body{
 	background-color: #343F4B;
 }
-.container1{
+
+
+.container1-fluid{
 	background-color: #B3A48F;
 }
 
 h1{
 	color: #47525E;
 	font-size: 48px;
+	text-align: center;
 }
+
 .contaner2{
 }
 
@@ -46,7 +50,7 @@ input{
 	display: inline-block;
 }
 
-.container3-fluid{
+.container3{
 	background-color: #B3A48F; 
 	/*<!--*/
 	width: 1371px;
@@ -115,15 +119,50 @@ h6{
 
 h4{
 	text-align: center;
+	margin-top: 11%;
+	color: #47525E;
 }
 
 #ab1{
 	width: 300px;
 	height: 200px;
-	margin-left: 0%;
+	margin-left: 13%;
 }
 
 .container7{
-	margin-left: 15%;
+	background-color: #000207; 
+	/*<!--*/
+	width: 1371px;
+	height: 400px;
+	margin-left: 2%;
+	margin-top: 5%;
+	
 }
 
+.nav1{
+	color: #47525E;
+}
+
+.nav2{
+	color: #47525E;
+}
+
+.nav3{
+	color: #47525E;
+}
+
+.nav4{
+	color: #47525E;
+}
+
+.nav5{
+	color: #47525E;
+}
+
+a:hover{
+	color: #fff;
+}
+
+.navp{
+	color: #47525E;
+}
