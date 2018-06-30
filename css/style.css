@@ -19,13 +19,13 @@ h1{
 .form1{
 	background-color: #ffff;
 	width: 730px;
-	height: 229.81px;
+	height: 300px;
 	margin-left: 5%;
 	margin-top: 20%;
 }
 
 .btn1{
-	background-color: #47525E;;
+	background-color: #47525E;
 	color: #ffff;
 	height: 45px;
 	width: 215px
@@ -126,7 +126,7 @@ h4{
 #ab1{
 	width: 300px;
 	height: 200px;
-	margin-left: 13%;
+	margin-left: 15%;
 }
 
 .container7{
@@ -165,4 +165,14 @@ a:hover{
 
 .navp{
 	color: #47525E;
+}
+
+#LinkedIn{
+	color: #47525E;
+	margin-left: 42%
+}
+
+#blurb{
+	margin-left: 5%;
+	margin-top: 2%;
 }
